@@ -1,0 +1,4003 @@
+{
+  "competence": "2026-07",
+  "referenceMode": "latest_available",
+  "source": "CAGED: capturas fornecidas · MTE: potencial_ead_julho-1.xlsx",
+  "state": {
+    "caged": 21880,
+    "mte": 24592
+  },
+  "regions": {},
+  "municipalities": [
+    {
+      "name": "Aceguá",
+      "potential": 32,
+      "industry": 0,
+      "sourceName": "Aceguá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Água Santa",
+      "potential": 18,
+      "industry": 7,
+      "sourceName": "Água Santa",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Agudo",
+      "potential": 56,
+      "industry": 22,
+      "sourceName": "Agudo",
+      "caged": 31,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ajuricaba",
+      "potential": 25,
+      "industry": 3,
+      "sourceName": "Ajuricaba",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Alecrim",
+      "potential": 10,
+      "industry": 0,
+      "sourceName": "Alecrim",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Alegrete",
+      "potential": 325,
+      "industry": 75,
+      "sourceName": "Alegrete",
+      "caged": 65,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Alegria",
+      "potential": 3,
+      "industry": 1,
+      "sourceName": "Alegria",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Almirante Tamandaré do Sul",
+      "potential": 27,
+      "industry": 21,
+      "sourceName": "Almirante Tamandaré do Sul",
+      "caged": 18,
+      "rule": "EAD"
+    },
+    {
+      "name": "Alpestre",
+      "potential": 8,
+      "industry": 2,
+      "sourceName": "Alpestre",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Alto Alegre",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Alto Alegre",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Alto Feliz",
+      "potential": 25,
+      "industry": 11,
+      "sourceName": "Alto Feliz",
+      "caged": 15,
+      "rule": "EAD"
+    },
+    {
+      "name": "Alvorada",
+      "potential": 435,
+      "industry": 108,
+      "sourceName": "Alvorada",
+      "caged": 89,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Amaral Ferrador",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Amaral Ferrador",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ametista do Sul",
+      "potential": 11,
+      "industry": 4,
+      "sourceName": "Ametista do Sul",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "André da Rocha",
+      "potential": 4,
+      "industry": 1,
+      "sourceName": "André da Rocha",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Anta Gorda",
+      "potential": 37,
+      "industry": 10,
+      "sourceName": "Anta Gorda",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Antônio Prado",
+      "potential": 106,
+      "industry": 72,
+      "sourceName": "Antônio Prado",
+      "caged": 81,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Arambaré",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Arambaré",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Araricá",
+      "potential": 36,
+      "industry": 28,
+      "sourceName": "Araricá",
+      "caged": 29,
+      "rule": "EAD"
+    },
+    {
+      "name": "Aratiba",
+      "potential": 17,
+      "industry": 7,
+      "sourceName": "Aratiba",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Arroio do Meio",
+      "potential": 241,
+      "industry": 170,
+      "sourceName": "Arroio do Meio",
+      "caged": 182,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Arroio do Padre",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Arroio do Padre",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Arroio do Sal",
+      "potential": 34,
+      "industry": 2,
+      "sourceName": "Arroio do Sal",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Arroio do Tigre",
+      "potential": 25,
+      "industry": 0,
+      "sourceName": "Arroio do Tigre",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Arroio dos Ratos",
+      "potential": 31,
+      "industry": 6,
+      "sourceName": "Arroio dos Ratos",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Arroio Grande",
+      "potential": 63,
+      "industry": 5,
+      "sourceName": "Arroio Grande",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Arvorezinha",
+      "potential": 16,
+      "industry": 5,
+      "sourceName": "Arvorezinha",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Augusto Pestana",
+      "potential": 31,
+      "industry": 11,
+      "sourceName": "Augusto Pestana",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Áurea",
+      "potential": 2,
+      "industry": 1,
+      "sourceName": "Áurea",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bagé",
+      "potential": 447,
+      "industry": 78,
+      "sourceName": "Bagé",
+      "caged": 64,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Balneário Pinhal",
+      "potential": 33,
+      "industry": 3,
+      "sourceName": "Balneário Pinhal",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barão",
+      "potential": 54,
+      "industry": 47,
+      "sourceName": "Barão",
+      "caged": 56,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barão de Cotegipe",
+      "potential": 21,
+      "industry": 7,
+      "sourceName": "Barão de Cotegipe",
+      "caged": 9,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barão do Triunfo",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Barão do Triunfo",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barra do Guarita",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Barra do Guarita",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barra do Quaraí",
+      "potential": 28,
+      "industry": 0,
+      "sourceName": "Barra do Quaraí",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barra do Ribeiro",
+      "potential": 66,
+      "industry": 13,
+      "sourceName": "Barra do Ribeiro",
+      "caged": 11,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barra do Rio Azul",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Barra do Rio Azul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barra Funda",
+      "potential": 28,
+      "industry": 22,
+      "sourceName": "Barra Funda",
+      "caged": 14,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barracão",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Barracão",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Barros Cassal",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Barros Cassal",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Benjamin Constant do Sul",
+      "potential": 2,
+      "industry": 1,
+      "sourceName": "Benjamin Constant do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bento Gonçalves",
+      "potential": 1170,
+      "industry": 678,
+      "sourceName": "Bento Gonçalves",
+      "caged": 640,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Boa Vista das Missões",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Boa Vista das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Boa Vista do Buricá",
+      "potential": 22,
+      "industry": 6,
+      "sourceName": "Boa Vista do Buricá",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Boa Vista do Cadeado",
+      "potential": 13,
+      "industry": 0,
+      "sourceName": "Boa Vista do Cadeado",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Boa Vista do Incra",
+      "potential": 9,
+      "industry": 0,
+      "sourceName": "Boa Vista do Incra",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Boa Vista do Sul",
+      "potential": 19,
+      "industry": 17,
+      "sourceName": "Boa Vista do Sul",
+      "caged": 8,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bom Jesus",
+      "potential": 100,
+      "industry": 4,
+      "sourceName": "Bom Jesus",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bom Princípio",
+      "potential": 145,
+      "industry": 108,
+      "sourceName": "Bom Princípio",
+      "caged": 96,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Bom Progresso",
+      "potential": 7,
+      "industry": 2,
+      "sourceName": "Bom Progresso",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bom Retiro do Sul",
+      "potential": 74,
+      "industry": 56,
+      "sourceName": "Bom Retiro do Sul",
+      "caged": 54,
+      "rule": "EAD"
+    },
+    {
+      "name": "Boqueirão do Leão",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Boqueirão do Leão",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bossoroca",
+      "potential": 18,
+      "industry": 1,
+      "sourceName": "Bossoroca",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Bozano",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Bozano",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Braga",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Braga",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Brochier",
+      "potential": 8,
+      "industry": 0,
+      "sourceName": "Brochier",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Butiá",
+      "potential": 111,
+      "industry": 13,
+      "sourceName": "Butiá",
+      "caged": 7,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Caçapava do Sul",
+      "potential": 148,
+      "industry": 61,
+      "sourceName": "Caçapava do Sul",
+      "caged": 48,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Cacequi",
+      "potential": 33,
+      "industry": 2,
+      "sourceName": "Cacequi",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cachoeira do Sul",
+      "potential": 327,
+      "industry": 96,
+      "sourceName": "Cachoeira do Sul",
+      "caged": 94,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Cachoeirinha",
+      "potential": 1034,
+      "industry": 355,
+      "sourceName": "Cachoeirinha",
+      "caged": 336,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Cacique Doble",
+      "potential": 2,
+      "industry": 1,
+      "sourceName": "Cacique Doble",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Caibaté",
+      "potential": 19,
+      "industry": 11,
+      "sourceName": "Caibaté",
+      "caged": 16,
+      "rule": "EAD"
+    },
+    {
+      "name": "Caiçara",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Caiçara",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Camaquã",
+      "potential": 304,
+      "industry": 92,
+      "sourceName": "Camaquã",
+      "caged": 59,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Camargo",
+      "potential": 19,
+      "industry": 13,
+      "sourceName": "Camargo",
+      "caged": 8,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cambará do Sul",
+      "potential": 25,
+      "industry": 16,
+      "sourceName": "Cambará do Sul",
+      "caged": 16,
+      "rule": "EAD"
+    },
+    {
+      "name": "Campestre da Serra",
+      "potential": 11,
+      "industry": 3,
+      "sourceName": "Campestre da Serra",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Campina das Missões",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Campina das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Campinas do Sul",
+      "potential": 17,
+      "industry": 0,
+      "sourceName": "Campinas do Sul",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Campo Bom",
+      "potential": 590,
+      "industry": 382,
+      "sourceName": "Campo Bom",
+      "caged": 367,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Campo Novo",
+      "potential": 34,
+      "industry": 6,
+      "sourceName": "Campo Novo",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Campos Borges",
+      "potential": 10,
+      "industry": 0,
+      "sourceName": "Campos Borges",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Candelária",
+      "potential": 133,
+      "industry": 83,
+      "sourceName": "Candelária",
+      "caged": 10,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Cândido Godói",
+      "potential": 20,
+      "industry": 8,
+      "sourceName": "Cândido Godói",
+      "caged": 11,
+      "rule": "EAD"
+    },
+    {
+      "name": "Candiota",
+      "potential": 68,
+      "industry": 50,
+      "sourceName": "Candiota",
+      "caged": 19,
+      "rule": "EAD"
+    },
+    {
+      "name": "Canela",
+      "potential": 243,
+      "industry": 40,
+      "sourceName": "Canela",
+      "caged": 22,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Canguçu",
+      "potential": 78,
+      "industry": 5,
+      "sourceName": "Canguçu",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Canoas",
+      "potential": 2310,
+      "industry": 421,
+      "sourceName": "Canoas",
+      "caged": 449,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Canudos do Vale",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Canudos do Vale",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Capão Bonito do Sul",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Capão Bonito do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Capão da Canoa",
+      "potential": 181,
+      "industry": 34,
+      "sourceName": "Capão da Canoa",
+      "caged": 15,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Capão do Leão",
+      "potential": 94,
+      "industry": 44,
+      "sourceName": "Capão do Leão",
+      "caged": 22,
+      "rule": "EAD"
+    },
+    {
+      "name": "Capão do Cipó",
+      "potential": 9,
+      "industry": 0,
+      "sourceName": "Capão do Sipó",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Capela de Santana",
+      "potential": 21,
+      "industry": 11,
+      "sourceName": "Capela de Santana",
+      "caged": 13,
+      "rule": "EAD"
+    },
+    {
+      "name": "Capitão",
+      "potential": 4,
+      "industry": 1,
+      "sourceName": "Capitão",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Capivari do Sul",
+      "potential": 27,
+      "industry": 7,
+      "sourceName": "Capivari do Sul",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Caraá",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Caraá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Carazinho",
+      "potential": 354,
+      "industry": 78,
+      "sourceName": "Carazinho",
+      "caged": 84,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Carlos Barbosa",
+      "potential": 435,
+      "industry": 339,
+      "sourceName": "Carlos Barbosa",
+      "caged": 386,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Carlos Gomes",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Carlos Gomes",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Casca",
+      "potential": 77,
+      "industry": 35,
+      "sourceName": "Casca",
+      "caged": 37,
+      "rule": "EAD"
+    },
+    {
+      "name": "Caseiros",
+      "potential": 8,
+      "industry": 2,
+      "sourceName": "Caseiros",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Catuípe",
+      "potential": 30,
+      "industry": 1,
+      "sourceName": "Catuípe",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Caxias do Sul",
+      "potential": 4577,
+      "industry": 2459,
+      "sourceName": "Caxias do Sul",
+      "caged": 2594,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Centenário",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Centenário",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cerrito",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Cerrito",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cerro Branco",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Cerro Branco",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cerro Grande",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Cerro Grande",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cerro Grande do Sul",
+      "potential": 17,
+      "industry": 1,
+      "sourceName": "Cerro Grande do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cerro Largo",
+      "potential": 83,
+      "industry": 17,
+      "sourceName": "Cerro Largo",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Chapada",
+      "potential": 38,
+      "industry": 1,
+      "sourceName": "Chapada",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Charqueadas",
+      "potential": 149,
+      "industry": 54,
+      "sourceName": "Charqueadas",
+      "caged": 74,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Charrua",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Charrua",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Chiapetta",
+      "potential": 21,
+      "industry": 0,
+      "sourceName": "Chiapeta",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Chuí",
+      "potential": 38,
+      "industry": 1,
+      "sourceName": "Chuí",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Chuvisca",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Chuvisca",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cidreira",
+      "potential": 25,
+      "industry": 1,
+      "sourceName": "Cidreira",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ciríaco",
+      "potential": 9,
+      "industry": 3,
+      "sourceName": "Ciríaco",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Colinas",
+      "potential": 4,
+      "industry": 3,
+      "sourceName": "Colinas",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Colorado",
+      "potential": 13,
+      "industry": 3,
+      "sourceName": "Colorado",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Condor",
+      "potential": 60,
+      "industry": 22,
+      "sourceName": "Condor",
+      "caged": 29,
+      "rule": "EAD"
+    },
+    {
+      "name": "Constantina",
+      "potential": 31,
+      "industry": 10,
+      "sourceName": "Constantina",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Coqueiro Baixo",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Coqueiro Baixo",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Coqueiros do Sul",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Coqueiros do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Coronel Barros",
+      "potential": 9,
+      "industry": 2,
+      "sourceName": "Coronel Barros",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Coronel Bicaco",
+      "potential": 21,
+      "industry": 1,
+      "sourceName": "Coronel Bicaco",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Coronel Pilar",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Coronel Pilar",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cotiporã",
+      "potential": 19,
+      "industry": 15,
+      "sourceName": "Cotiporã",
+      "caged": 14,
+      "rule": "EAD"
+    },
+    {
+      "name": "Coxilha",
+      "potential": 21,
+      "industry": 0,
+      "sourceName": "Coxilha",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Crissiumal",
+      "potential": 43,
+      "industry": 13,
+      "sourceName": "Crissiumal",
+      "caged": 12,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cristal",
+      "potential": 18,
+      "industry": 1,
+      "sourceName": "Cristal",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cristal do Sul",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Cristal do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cruz Alta",
+      "potential": 335,
+      "industry": 80,
+      "sourceName": "Cruz Alta",
+      "caged": 65,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Cruzaltense",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Cruzaltense",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Cruzeiro do Sul",
+      "potential": 74,
+      "industry": 31,
+      "sourceName": "Cruzeiro do Sul",
+      "caged": 24,
+      "rule": "EAD"
+    },
+    {
+      "name": "David Canabarro",
+      "potential": 6,
+      "industry": 1,
+      "sourceName": "David Canabarro",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Derrubadas",
+      "potential": 8,
+      "industry": 1,
+      "sourceName": "Derrubadas",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dezesseis de Novembro",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Dezesseis de Novembro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dilermando de Aguiar",
+      "potential": 6,
+      "industry": 1,
+      "sourceName": "Dilermando de Aguiar",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dois Irmãos",
+      "potential": 291,
+      "industry": 187,
+      "sourceName": "Dois Irmãos",
+      "caged": 203,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Dois Irmãos das Missões",
+      "potential": 13,
+      "industry": 0,
+      "sourceName": "Dois Irmãos das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dois Lajeados",
+      "potential": 12,
+      "industry": 3,
+      "sourceName": "Dois Lajeados",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dom Feliciano",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Dom Feliciano",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dom Pedrito",
+      "potential": 151,
+      "industry": 18,
+      "sourceName": "Dom Pedrito",
+      "caged": 18,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Dom Pedro de Alcântara",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Dom Pedro de Alcântara",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Dona Francisca",
+      "potential": 6,
+      "industry": 4,
+      "sourceName": "Dona Francisca",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Doutor Maurício Cardoso",
+      "potential": 9,
+      "industry": 0,
+      "sourceName": "Doutor Maurício Cardoso",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Doutor Ricardo",
+      "potential": 5,
+      "industry": 4,
+      "sourceName": "Doutor Ricardo",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Eldorado do Sul",
+      "potential": 408,
+      "industry": 158,
+      "sourceName": "Eldorado do Sul",
+      "caged": 73,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Encantado",
+      "potential": 221,
+      "industry": 132,
+      "sourceName": "Encantado",
+      "caged": 160,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Encruzilhada do Sul",
+      "potential": 92,
+      "industry": 23,
+      "sourceName": "Encruzilhada do Sul",
+      "caged": 19,
+      "rule": "EAD"
+    },
+    {
+      "name": "Engenho Velho",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Engenho Velho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Entre Rios do Sul",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Entre Rios do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Entre-Ijuís",
+      "potential": 32,
+      "industry": 3,
+      "sourceName": "Entre-Ijuís",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Erebango",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Erebango",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Erechim",
+      "potential": 1212,
+      "industry": 662,
+      "sourceName": "Erechim",
+      "caged": 495,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Ernestina",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Ernestina",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Erval Grande",
+      "potential": 11,
+      "industry": 3,
+      "sourceName": "Erval Grande",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Erval Seco",
+      "potential": 14,
+      "industry": 0,
+      "sourceName": "Erval Seco",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Esmeralda",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Esmeralda",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Esperança do Sul",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Esperança do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Espumoso",
+      "potential": 91,
+      "industry": 23,
+      "sourceName": "Espumoso",
+      "caged": 24,
+      "rule": "EAD"
+    },
+    {
+      "name": "Estação",
+      "potential": 61,
+      "industry": 49,
+      "sourceName": "Estação",
+      "caged": 42,
+      "rule": "EAD"
+    },
+    {
+      "name": "Estância Velha",
+      "potential": 318,
+      "industry": 143,
+      "sourceName": "Estância Velha",
+      "caged": 115,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Esteio",
+      "potential": 494,
+      "industry": 211,
+      "sourceName": "Esteio",
+      "caged": 210,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Estrela",
+      "potential": 337,
+      "industry": 160,
+      "sourceName": "Estrela",
+      "caged": 163,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Estrela Velha",
+      "potential": 9,
+      "industry": 0,
+      "sourceName": "Estrela Velha",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Eugênio de Castro",
+      "potential": 7,
+      "industry": 0,
+      "sourceName": "Eugênio de Castro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Fagundes Varela",
+      "potential": 10,
+      "industry": 8,
+      "sourceName": "Fagundes Varela",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Farroupilha",
+      "potential": 790,
+      "industry": 410,
+      "sourceName": "Farroupilha",
+      "caged": 403,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Faxinal do Soturno",
+      "potential": 31,
+      "industry": 9,
+      "sourceName": "Faxinal do Soturno",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Faxinalzinho",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Faxinalzinho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Fazenda Vilanova",
+      "potential": 17,
+      "industry": 2,
+      "sourceName": "Fazenda Vilanova",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Feliz",
+      "potential": 86,
+      "industry": 54,
+      "sourceName": "Feliz",
+      "caged": 51,
+      "rule": "EAD"
+    },
+    {
+      "name": "Flores da Cunha",
+      "potential": 377,
+      "industry": 248,
+      "sourceName": "Flores da Cunha",
+      "caged": 231,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Floriano Peixoto",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Floriano Peixoto",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Fontoura Xavier",
+      "potential": 20,
+      "industry": 6,
+      "sourceName": "Fontoura Xavier",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Formigueiro",
+      "potential": 13,
+      "industry": 5,
+      "sourceName": "Formigueiro",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Forquetinha",
+      "potential": 6,
+      "industry": 4,
+      "sourceName": "Forquetinha",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Fortaleza dos Valos",
+      "potential": 14,
+      "industry": 1,
+      "sourceName": "Fortaleza dos Valos",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Frederico Westphalen",
+      "potential": 246,
+      "industry": 99,
+      "sourceName": "Frederico Westphalen",
+      "caged": 68,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Garibaldi",
+      "potential": 512,
+      "industry": 333,
+      "sourceName": "Garibaldi",
+      "caged": 340,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Garruchos",
+      "potential": 9,
+      "industry": 1,
+      "sourceName": "Garruchos",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Gaurama",
+      "potential": 15,
+      "industry": 10,
+      "sourceName": "Gaurama",
+      "caged": 13,
+      "rule": "EAD"
+    },
+    {
+      "name": "General Câmara",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "General Câmara",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Gentil",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Gentil",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Getúlio Vargas",
+      "potential": 98,
+      "industry": 46,
+      "sourceName": "Getúlio Vargas",
+      "caged": 39,
+      "rule": "EAD"
+    },
+    {
+      "name": "Giruá",
+      "potential": 70,
+      "industry": 11,
+      "sourceName": "Giruá",
+      "caged": 7,
+      "rule": "EAD"
+    },
+    {
+      "name": "Glorinha",
+      "potential": 47,
+      "industry": 37,
+      "sourceName": "Glorinha",
+      "caged": 25,
+      "rule": "EAD"
+    },
+    {
+      "name": "Gramado",
+      "potential": 543,
+      "industry": 105,
+      "sourceName": "Gramado",
+      "caged": 100,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Gramado dos Loureiros",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Gramado dos Loureiros",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Gramado Xavier",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Gramado Xavier",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Gravataí",
+      "potential": 1664,
+      "industry": 772,
+      "sourceName": "Gravataí",
+      "caged": 591,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Guabiju",
+      "potential": 6,
+      "industry": 5,
+      "sourceName": "Guabiju",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Guaíba",
+      "potential": 393,
+      "industry": 107,
+      "sourceName": "Guaíba",
+      "caged": 86,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Guaporé",
+      "potential": 122,
+      "industry": 65,
+      "sourceName": "Guaporé",
+      "caged": 65,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Guarani das Missões",
+      "potential": 64,
+      "industry": 1,
+      "sourceName": "Guarani das Missões",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Harmonia",
+      "potential": 52,
+      "industry": 40,
+      "sourceName": "Harmonia",
+      "caged": 42,
+      "rule": "EAD"
+    },
+    {
+      "name": "Herval",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Herval",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Herveiras",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Herveiras",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Horizontina",
+      "potential": 115,
+      "industry": 59,
+      "sourceName": "Horizontina",
+      "caged": 77,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Hulha Negra",
+      "potential": 81,
+      "industry": 79,
+      "sourceName": "Hulha Negra",
+      "caged": 70,
+      "rule": "EAD"
+    },
+    {
+      "name": "Humaitá",
+      "potential": 19,
+      "industry": 1,
+      "sourceName": "Humaitá",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ibarama",
+      "potential": 3,
+      "industry": 3,
+      "sourceName": "Ibarama",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ibiaçá",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Ibiaçá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ibiraiaras",
+      "potential": 26,
+      "industry": 2,
+      "sourceName": "Ibiraiaras",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ibirapuitã",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Ibirapuitã",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ibirubá",
+      "potential": 203,
+      "industry": 88,
+      "sourceName": "Ibirubá",
+      "caged": 115,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Igrejinha",
+      "potential": 304,
+      "industry": 205,
+      "sourceName": "Igrejinha",
+      "caged": 158,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Ijuí",
+      "potential": 548,
+      "industry": 136,
+      "sourceName": "Ijuí",
+      "caged": 79,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Ilópolis",
+      "potential": 15,
+      "industry": 6,
+      "sourceName": "Ilópolis",
+      "caged": 7,
+      "rule": "EAD"
+    },
+    {
+      "name": "Imbé",
+      "potential": 50,
+      "industry": 2,
+      "sourceName": "Imbé",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Imigrante",
+      "potential": 36,
+      "industry": 33,
+      "sourceName": "Imigrante",
+      "caged": 37,
+      "rule": "EAD"
+    },
+    {
+      "name": "Independência",
+      "potential": 35,
+      "industry": 19,
+      "sourceName": "Independência",
+      "caged": 18,
+      "rule": "EAD"
+    },
+    {
+      "name": "Inhacorá",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Inhacorá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ipê",
+      "potential": 19,
+      "industry": 3,
+      "sourceName": "Ipê",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ipiranga do Sul",
+      "potential": 2,
+      "industry": 1,
+      "sourceName": "Ipiranga do Sul",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Iraí",
+      "potential": 8,
+      "industry": 0,
+      "sourceName": "Iraí",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Itaara",
+      "potential": 25,
+      "industry": 6,
+      "sourceName": "Itaara",
+      "caged": 7,
+      "rule": "EAD"
+    },
+    {
+      "name": "Itacurubi",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Itacurubi",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Itapuca",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Itapuca",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Itaqui",
+      "potential": 225,
+      "industry": 48,
+      "sourceName": "Itaqui",
+      "caged": 49,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Itati",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Itati",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Itatiba do Sul",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Itatiba do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ivorá",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Ivorá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ivoti",
+      "potential": 196,
+      "industry": 120,
+      "sourceName": "Ivoti",
+      "caged": 115,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Jaboticaba",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Jaboticaba",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jacuizinho",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Jacuizinho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jacutinga",
+      "potential": 14,
+      "industry": 0,
+      "sourceName": "Jacutinga",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jaguarão",
+      "potential": 83,
+      "industry": 1,
+      "sourceName": "Jaguarão",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jaguari",
+      "potential": 25,
+      "industry": 3,
+      "sourceName": "Jaguari",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jaquirana",
+      "potential": 8,
+      "industry": 3,
+      "sourceName": "Jaquirana",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jari",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Jari",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Jóia",
+      "potential": 16,
+      "industry": 0,
+      "sourceName": "Jóia",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Júlio de Castilhos",
+      "potential": 68,
+      "industry": 3,
+      "sourceName": "Júlio de Castilhos",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Lagoa Bonita do Sul",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Lagoa Bonita do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Lagoa dos Três Cantos",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Lagoa dos Três Cantos",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Lagoa Vermelha",
+      "potential": 158,
+      "industry": 76,
+      "sourceName": "Lagoa Vermelha",
+      "caged": 77,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Lagoão",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Lagoão",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Lajeado",
+      "potential": 1067,
+      "industry": 542,
+      "sourceName": "Lajeado",
+      "caged": 417,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Lajeado do Bugre",
+      "potential": 3,
+      "industry": 2,
+      "sourceName": "Lajeado do Bugre",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Lavras do Sul",
+      "potential": 19,
+      "industry": 0,
+      "sourceName": "Lavras do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Liberato Salzano",
+      "potential": 9,
+      "industry": 4,
+      "sourceName": "Liberato Salzano",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Lindolfo Collor",
+      "potential": 68,
+      "industry": 64,
+      "sourceName": "Lindolfo Collor",
+      "caged": 66,
+      "rule": "EAD"
+    },
+    {
+      "name": "Linha Nova",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Linha Nova",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Maçambara",
+      "potential": 19,
+      "industry": 0,
+      "sourceName": "Maçambara",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Machadinho",
+      "potential": 15,
+      "industry": 2,
+      "sourceName": "Machadinho",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mampituba",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Mampituba",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Manoel Viana",
+      "potential": 15,
+      "industry": 1,
+      "sourceName": "Manoel Viana",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Maquiné",
+      "potential": 18,
+      "industry": 5,
+      "sourceName": "Maquiné",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Maratá",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Maratá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Marau",
+      "potential": 465,
+      "industry": 274,
+      "sourceName": "Marau",
+      "caged": 179,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Marcelino Ramos",
+      "potential": 8,
+      "industry": 2,
+      "sourceName": "Marcelino Ramos",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mariana Pimentel",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Mariana Pimentel",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mariano Moro",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Mariano Moro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Marques de Souza",
+      "potential": 10,
+      "industry": 4,
+      "sourceName": "Marques de Souza",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mata",
+      "potential": 8,
+      "industry": 3,
+      "sourceName": "Mata",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mato Castelhano",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Mato Castelhano",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mato Leitão",
+      "potential": 32,
+      "industry": 25,
+      "sourceName": "Mato Leitão",
+      "caged": 9,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mato Queimado",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Mato Queimado",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Maximiliano de Almeida",
+      "potential": 4,
+      "industry": 2,
+      "sourceName": "Maximiliano de Almeida",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Minas do Leão",
+      "potential": 25,
+      "industry": 6,
+      "sourceName": "Minas do Leão",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Miraguaí",
+      "potential": 82,
+      "industry": 78,
+      "sourceName": "Miraguaí",
+      "caged": 14,
+      "rule": "EAD"
+    },
+    {
+      "name": "Montauri",
+      "potential": 9,
+      "industry": 5,
+      "sourceName": "Montauri",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Monte Alegre dos Campos",
+      "potential": 12,
+      "industry": 0,
+      "sourceName": "Monte Alegre dos Campos",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Monte Belo do Sul",
+      "potential": 8,
+      "industry": 6,
+      "sourceName": "Monte Belo do Sul",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Montenegro",
+      "potential": 588,
+      "industry": 305,
+      "sourceName": "Montenegro",
+      "caged": 308,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Mormaço",
+      "potential": 3,
+      "industry": 1,
+      "sourceName": "Mormaço",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Morrinhos do Sul",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Morrinhos do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Morro Redondo",
+      "potential": 4,
+      "industry": 2,
+      "sourceName": "Morro Redondo",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Morro Reuter",
+      "potential": 47,
+      "industry": 37,
+      "sourceName": "Morro Reuter",
+      "caged": 35,
+      "rule": "EAD"
+    },
+    {
+      "name": "Mostardas",
+      "potential": 51,
+      "industry": 8,
+      "sourceName": "Mostardas",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Muçum",
+      "potential": 74,
+      "industry": 18,
+      "sourceName": "Muçum",
+      "caged": 19,
+      "rule": "EAD"
+    },
+    {
+      "name": "Muitos Capões",
+      "potential": 28,
+      "industry": 7,
+      "sourceName": "Muitos Capões",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Muliterno",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Muliterno",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Não-Me-Toque",
+      "potential": 253,
+      "industry": 127,
+      "sourceName": "Não-Me-Toque",
+      "caged": 193,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Nicolau Vergueiro",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Nicolau Vergueiro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nonoai",
+      "potential": 43,
+      "industry": 3,
+      "sourceName": "Nonoai",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Alvorada",
+      "potential": 32,
+      "industry": 5,
+      "sourceName": "Nova Alvorada",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Araçá",
+      "potential": 66,
+      "industry": 56,
+      "sourceName": "Nova Araçá",
+      "caged": 63,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Bassano",
+      "potential": 92,
+      "industry": 71,
+      "sourceName": "Nova Bassano",
+      "caged": 64,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Boa Vista",
+      "potential": 20,
+      "industry": 18,
+      "sourceName": "Nova Boa Vista",
+      "caged": 11,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Bréscia",
+      "potential": 7,
+      "industry": 6,
+      "sourceName": "Nova Bréscia",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Candelária",
+      "potential": 23,
+      "industry": 18,
+      "sourceName": "Nova Candelária",
+      "caged": 14,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Esperança do Sul",
+      "potential": 38,
+      "industry": 35,
+      "sourceName": "Nova Esperança do Sul",
+      "caged": 42,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Hartz",
+      "potential": 210,
+      "industry": 195,
+      "sourceName": "Nova Hartz",
+      "caged": 206,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Nova Pádua",
+      "potential": 8,
+      "industry": 3,
+      "sourceName": "Nova Pádua",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Palma",
+      "potential": 19,
+      "industry": 2,
+      "sourceName": "Nova Palma",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Petrópolis",
+      "potential": 136,
+      "industry": 66,
+      "sourceName": "Nova Petrópolis",
+      "caged": 77,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Nova Prata",
+      "potential": 185,
+      "industry": 99,
+      "sourceName": "Nova Prata",
+      "caged": 107,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Nova Ramada",
+      "potential": 6,
+      "industry": 2,
+      "sourceName": "Nova Ramada",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Roma do Sul",
+      "potential": 8,
+      "industry": 5,
+      "sourceName": "Nova Roma do Sul",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Nova Santa Rita",
+      "potential": 371,
+      "industry": 70,
+      "sourceName": "Nova Santa Rita",
+      "caged": 66,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Novo Barreiro",
+      "potential": 7,
+      "industry": 1,
+      "sourceName": "Novo Barreiro",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Novo Cabrais",
+      "potential": 7,
+      "industry": 0,
+      "sourceName": "Novo Cabrais",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Novo Hamburgo",
+      "potential": 1826,
+      "industry": 628,
+      "sourceName": "Novo Hamburgo",
+      "caged": 557,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Novo Machado",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Novo Machado",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Novo Tiradentes",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Novo Tiradentes",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Novo Xingu",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Novo Xingu",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Osório",
+      "potential": 257,
+      "industry": 91,
+      "sourceName": "Osório",
+      "caged": 75,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Paim Filho",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Paim Filho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Palmares do Sul",
+      "potential": 34,
+      "industry": 5,
+      "sourceName": "Palmares do Sul",
+      "caged": 8,
+      "rule": "EAD"
+    },
+    {
+      "name": "Palmeira das Missões",
+      "potential": 142,
+      "industry": 9,
+      "sourceName": "Palmeira das Missões",
+      "caged": 7,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Palmitinho",
+      "potential": 15,
+      "industry": 1,
+      "sourceName": "Palmitinho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Panambi",
+      "potential": 365,
+      "industry": 227,
+      "sourceName": "Panambi",
+      "caged": 342,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Pantano Grande",
+      "potential": 56,
+      "industry": 28,
+      "sourceName": "Pantano Grande",
+      "caged": 28,
+      "rule": "EAD"
+    },
+    {
+      "name": "Paraí",
+      "potential": 71,
+      "industry": 49,
+      "sourceName": "Paraí",
+      "caged": 40,
+      "rule": "EAD"
+    },
+    {
+      "name": "Paraíso do Sul",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Paraíso do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pareci Novo",
+      "potential": 13,
+      "industry": 1,
+      "sourceName": "Pareci Novo",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Parobé",
+      "potential": 265,
+      "industry": 181,
+      "sourceName": "Parobé",
+      "caged": 156,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Passa Sete",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Passa Sete",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Passo do Sobrado",
+      "potential": 25,
+      "industry": 14,
+      "sourceName": "Passo do Sobrado",
+      "caged": 16,
+      "rule": "EAD"
+    },
+    {
+      "name": "Passo Fundo",
+      "potential": 1610,
+      "industry": 399,
+      "sourceName": "Passo Fundo",
+      "caged": 311,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Paulo Bento",
+      "potential": 15,
+      "industry": 14,
+      "sourceName": "Paulo Bento",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Paverama",
+      "potential": 22,
+      "industry": 13,
+      "sourceName": "Paverama",
+      "caged": 14,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pedras Altas",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Pedras Altas",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pedro Osório",
+      "potential": 23,
+      "industry": 0,
+      "sourceName": "Pedro Osório",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pejuçara",
+      "potential": 13,
+      "industry": 0,
+      "sourceName": "Pejuçara",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pelotas",
+      "potential": 1467,
+      "industry": 305,
+      "sourceName": "Pelotas",
+      "caged": 297,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Picada Café",
+      "potential": 42,
+      "industry": 37,
+      "sourceName": "Picada Café",
+      "caged": 49,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pinhal",
+      "potential": 33,
+      "industry": 26,
+      "sourceName": "Pinhal",
+      "caged": 12,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pinhal da Serra",
+      "potential": 5,
+      "industry": 1,
+      "sourceName": "Pinhal da Serra",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pinhal Grande",
+      "potential": 2,
+      "industry": 1,
+      "sourceName": "Pinhal Grande",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pinheirinho do Vale",
+      "potential": 7,
+      "industry": 1,
+      "sourceName": "Pinheirinho do Vale",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pinheiro Machado",
+      "potential": 32,
+      "industry": 2,
+      "sourceName": "Pinheiro Machado",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pinto Bandeira",
+      "potential": 4,
+      "industry": 3,
+      "sourceName": "Pinto Bandeira",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pirapó",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Pirapó",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Piratini",
+      "potential": 29,
+      "industry": 7,
+      "sourceName": "Piratini",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Planalto",
+      "potential": 35,
+      "industry": 12,
+      "sourceName": "Planalto",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Poço das Antas",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Poço das Antas",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pontão",
+      "potential": 11,
+      "industry": 3,
+      "sourceName": "Pontão",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ponte Preta",
+      "potential": 1,
+      "industry": 1,
+      "sourceName": "Ponte Preta",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Portão",
+      "potential": 314,
+      "industry": 234,
+      "sourceName": "Portão",
+      "caged": 148,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Porto Alegre",
+      "potential": 12387,
+      "industry": 1457,
+      "sourceName": "Porto Alegre",
+      "caged": 959,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Porto Lucena",
+      "potential": 10,
+      "industry": 0,
+      "sourceName": "Porto Lucena",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Porto Mauá",
+      "potential": 8,
+      "industry": 0,
+      "sourceName": "Porto Mauá",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Porto Vera Cruz",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Porto Vera Cruz",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Porto Xavier",
+      "potential": 22,
+      "industry": 0,
+      "sourceName": "Porto Xavier",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Pouso Novo",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Pouso Novo",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Presidente Lucena",
+      "potential": 94,
+      "industry": 90,
+      "sourceName": "Presidente Lucena",
+      "caged": 54,
+      "rule": "EAD"
+    },
+    {
+      "name": "Progresso",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Progresso",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Protásio Alves",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Protásio Alves",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Putinga",
+      "potential": 5,
+      "industry": 3,
+      "sourceName": "Putinga",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Quatro Irmãos",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Quadro Irmãos",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Quaraí",
+      "potential": 90,
+      "industry": 3,
+      "sourceName": "Quaraí",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Quevedos",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Quevedos",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Quinze de Novembro",
+      "potential": 14,
+      "industry": 1,
+      "sourceName": "Quinze de Novembro",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Redentora",
+      "potential": 14,
+      "industry": 0,
+      "sourceName": "Redentora",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Relvado",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Relvado",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Restinga Seca",
+      "potential": 63,
+      "industry": 16,
+      "sourceName": "Restinga Seca",
+      "caged": 15,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rio dos Índios",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Rio dos Índios",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rio Grande",
+      "potential": 983,
+      "industry": 289,
+      "sourceName": "Rio Grande",
+      "caged": 268,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Rio Pardo",
+      "potential": 141,
+      "industry": 49,
+      "sourceName": "Rio Pardo",
+      "caged": 52,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Riozinho",
+      "potential": 35,
+      "industry": 30,
+      "sourceName": "Riozinho",
+      "caged": 11,
+      "rule": "EAD"
+    },
+    {
+      "name": "Roca Sales",
+      "potential": 74,
+      "industry": 57,
+      "sourceName": "Roca Sales",
+      "caged": 37,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rodeio Bonito",
+      "potential": 53,
+      "industry": 8,
+      "sourceName": "Rodeio Bonito",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rolador",
+      "potential": 7,
+      "industry": 0,
+      "sourceName": "Rolador",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rolante",
+      "potential": 157,
+      "industry": 100,
+      "sourceName": "Rolante",
+      "caged": 105,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Ronda Alta",
+      "potential": 23,
+      "industry": 0,
+      "sourceName": "Ronda Alta",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rondinha",
+      "potential": 15,
+      "industry": 5,
+      "sourceName": "Rondinha",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Roque Gonzales",
+      "potential": 15,
+      "industry": 0,
+      "sourceName": "Roque Gonzales",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Rosário do Sul",
+      "potential": 139,
+      "industry": 18,
+      "sourceName": "Rosário do Sul",
+      "caged": 10,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Sagrada Família",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Sagrada Família",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Saldanha Marinho",
+      "potential": 11,
+      "industry": 0,
+      "sourceName": "Saldanha Marinho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Salto do Jacuí",
+      "potential": 27,
+      "industry": 3,
+      "sourceName": "Salto do Jacuí",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Salvador das Missões",
+      "potential": 20,
+      "industry": 7,
+      "sourceName": "Salvador das Missões",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Salvador do Sul",
+      "potential": 70,
+      "industry": 31,
+      "sourceName": "Salvador do Sul",
+      "caged": 37,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sananduva",
+      "potential": 178,
+      "industry": 126,
+      "sourceName": "Sananduva",
+      "caged": 121,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santa Bárbara do Sul",
+      "potential": 39,
+      "industry": 1,
+      "sourceName": "Santa Bárbara do Sul",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santa Cecilia do Sul",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Santa Cecilia do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santa Clara do Sul",
+      "potential": 64,
+      "industry": 53,
+      "sourceName": "Santa Clara do Sul",
+      "caged": 11,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santa Cruz do Sul",
+      "potential": 1397,
+      "industry": 677,
+      "sourceName": "Santa Cruz do Sul",
+      "caged": 598,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santa Margarida do Sul",
+      "potential": 12,
+      "industry": 0,
+      "sourceName": "Santa Margarida do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santa Maria",
+      "potential": 1661,
+      "industry": 271,
+      "sourceName": "Santa Maria",
+      "caged": 233,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santa Maria do Herval",
+      "potential": 39,
+      "industry": 31,
+      "sourceName": "Santa Maria do Herval",
+      "caged": 24,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santa Rosa",
+      "potential": 690,
+      "industry": 269,
+      "sourceName": "Santa Rosa",
+      "caged": 269,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santa Tereza",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Santa Tereza",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santa Vitória do Palmar",
+      "potential": 161,
+      "industry": 4,
+      "sourceName": "Santa Vitória do Palmar",
+      "caged": 5,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santana da Boa Vista",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Santana da Boa Vista",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santana do Livramento",
+      "potential": 338,
+      "industry": 19,
+      "sourceName": "Santana do Livramento",
+      "caged": 14,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santiago",
+      "potential": 165,
+      "industry": 13,
+      "sourceName": "Santiago",
+      "caged": 10,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santo Ângelo",
+      "potential": 453,
+      "industry": 179,
+      "sourceName": "Santo Ângelo",
+      "caged": 164,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santo Antônio da Patrulha",
+      "potential": 230,
+      "industry": 134,
+      "sourceName": "Santo Antônio da Patrulha",
+      "caged": 72,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Santo Antônio das Missões",
+      "potential": 30,
+      "industry": 0,
+      "sourceName": "Santo Antônio das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santo Antônio do Palma",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Santo Antônio do Palma",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santo Antônio do Planalto",
+      "potential": 13,
+      "industry": 3,
+      "sourceName": "Santo Antônio do Planalto",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santo Augusto",
+      "potential": 84,
+      "industry": 11,
+      "sourceName": "Santo Augusto",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santo Cristo",
+      "potential": 83,
+      "industry": 13,
+      "sourceName": "Santo Cristo",
+      "caged": 11,
+      "rule": "EAD"
+    },
+    {
+      "name": "Santo Expedito do Sul",
+      "potential": 1,
+      "industry": 1,
+      "sourceName": "Santo Expedito do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Borja",
+      "potential": 340,
+      "industry": 75,
+      "sourceName": "São Borja",
+      "caged": 46,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Domingos do Sul",
+      "potential": 4,
+      "industry": 3,
+      "sourceName": "São Domingos do Sul",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Francisco de Assis",
+      "potential": 28,
+      "industry": 1,
+      "sourceName": "São Francisco de Assis",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Francisco de Paula",
+      "potential": 121,
+      "industry": 48,
+      "sourceName": "São Francisco de Paula",
+      "caged": 27,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Gabriel",
+      "potential": 258,
+      "industry": 66,
+      "sourceName": "São Gabriel",
+      "caged": 65,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Jerônimo",
+      "potential": 84,
+      "industry": 35,
+      "sourceName": "São Jerônimo",
+      "caged": 15,
+      "rule": "EAD"
+    },
+    {
+      "name": "São João da Urtiga",
+      "potential": 9,
+      "industry": 0,
+      "sourceName": "São João da Urtiga",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São João do Polêsine",
+      "potential": 19,
+      "industry": 7,
+      "sourceName": "São João do Polêsine",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Jorge",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "São Jorge",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José das Missões",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "São José das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José do Herval",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "São José do Herval",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José do Hortêncio",
+      "potential": 22,
+      "industry": 19,
+      "sourceName": "São José do Hortêncio",
+      "caged": 21,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José do Inhacorá",
+      "potential": 14,
+      "industry": 11,
+      "sourceName": "São José do Inhacorá",
+      "caged": 14,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José do Norte",
+      "potential": 56,
+      "industry": 4,
+      "sourceName": "São José do Norte",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José do Ouro",
+      "potential": 20,
+      "industry": 1,
+      "sourceName": "São José do Ouro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José do Sul",
+      "potential": 7,
+      "industry": 4,
+      "sourceName": "São José do Sul",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "São José dos Ausentes",
+      "potential": 18,
+      "industry": 1,
+      "sourceName": "São José dos Ausentes",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Leopoldo",
+      "potential": 1200,
+      "industry": 589,
+      "sourceName": "São Leopoldo",
+      "caged": 575,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Lourenço do Sul",
+      "potential": 146,
+      "industry": 22,
+      "sourceName": "São Lourenço do Sul",
+      "caged": 12,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Luiz Gonzaga",
+      "potential": 171,
+      "industry": 46,
+      "sourceName": "São Luiz Gonzaga",
+      "caged": 31,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Marcos",
+      "potential": 221,
+      "industry": 155,
+      "sourceName": "São Marcos",
+      "caged": 154,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Martinho",
+      "potential": 18,
+      "industry": 3,
+      "sourceName": "São Martinho",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Martinho da Serra",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "São Martinho da Serra",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Miguel das Missões",
+      "potential": 24,
+      "industry": 0,
+      "sourceName": "São Miguel das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Nicolau",
+      "potential": 10,
+      "industry": 0,
+      "sourceName": "São Nicolau",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Paulo das Missões",
+      "potential": 9,
+      "industry": 1,
+      "sourceName": "São Paulo das Missões",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Pedro da Serra",
+      "potential": 14,
+      "industry": 13,
+      "sourceName": "São Pedro da Serra",
+      "caged": 9,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Pedro das Missões",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "São Pedro das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Pedro do Butiá",
+      "potential": 18,
+      "industry": 5,
+      "sourceName": "São Pedro do Butiá",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Pedro do Sul",
+      "potential": 28,
+      "industry": 7,
+      "sourceName": "São Pedro do Sul",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Sebastião do Caí",
+      "potential": 188,
+      "industry": 124,
+      "sourceName": "São Sebastião do Caí",
+      "caged": 140,
+      "rule": "Presencial"
+    },
+    {
+      "name": "São Sepé",
+      "potential": 70,
+      "industry": 15,
+      "sourceName": "São Sepé",
+      "caged": 7,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Valentim",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "São Valentim",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Valentim do Sul",
+      "potential": 9,
+      "industry": 8,
+      "sourceName": "São Valentim do Sul",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Valério do Sul",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "São Valério do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Vendelino",
+      "potential": 11,
+      "industry": 10,
+      "sourceName": "São Vendelino",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "São Vicente do Sul",
+      "potential": 18,
+      "industry": 1,
+      "sourceName": "São Vicente do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sapiranga",
+      "potential": 466,
+      "industry": 325,
+      "sourceName": "Sapiranga",
+      "caged": 290,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Sapucaia do Sul",
+      "potential": 511,
+      "industry": 233,
+      "sourceName": "Sapucaia do Sul",
+      "caged": 184,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Sarandi",
+      "potential": 192,
+      "industry": 81,
+      "sourceName": "Sarandi",
+      "caged": 51,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Seberi",
+      "potential": 137,
+      "industry": 97,
+      "sourceName": "Seberi",
+      "caged": 84,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Sede Nova",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Sede Nova",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Segredo",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Segredo",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Selbach",
+      "potential": 23,
+      "industry": 7,
+      "sourceName": "Selbach",
+      "caged": 10,
+      "rule": "EAD"
+    },
+    {
+      "name": "Senador Salgado Filho",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Senador Salgado Filho",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sentinela do Sul",
+      "potential": 9,
+      "industry": 8,
+      "sourceName": "Sentinela do Sul",
+      "caged": 5,
+      "rule": "EAD"
+    },
+    {
+      "name": "Serafina Corrêa",
+      "potential": 199,
+      "industry": 124,
+      "sourceName": "Serafina Corrêa",
+      "caged": 85,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Sério",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Sério",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sertão",
+      "potential": 15,
+      "industry": 3,
+      "sourceName": "Sertão",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sertão Santana",
+      "potential": 16,
+      "industry": 7,
+      "sourceName": "Sertão Santana",
+      "caged": 7,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sete de Setembro",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Sete de Setembro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Severiano de Almeida",
+      "potential": 7,
+      "industry": 2,
+      "sourceName": "Severiano de Almeida",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Silveira Martins",
+      "potential": 2,
+      "industry": 1,
+      "sourceName": "Silveira Martins",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sinimbu",
+      "potential": 9,
+      "industry": 3,
+      "sourceName": "Sinimbu",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Sobradinho",
+      "potential": 36,
+      "industry": 7,
+      "sourceName": "Sobradinho",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Soledade",
+      "potential": 178,
+      "industry": 97,
+      "sourceName": "Soledade",
+      "caged": 116,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tabaí",
+      "potential": 7,
+      "industry": 0,
+      "sourceName": "Tabaí",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tapejara",
+      "potential": 279,
+      "industry": 211,
+      "sourceName": "Tapejara",
+      "caged": 130,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tapera",
+      "potential": 63,
+      "industry": 26,
+      "sourceName": "Tapera",
+      "caged": 19,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tapes",
+      "potential": 35,
+      "industry": 9,
+      "sourceName": "Tapes",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Taquara",
+      "potential": 219,
+      "industry": 80,
+      "sourceName": "Taquara",
+      "caged": 54,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Taquari",
+      "potential": 111,
+      "industry": 40,
+      "sourceName": "Taquari",
+      "caged": 46,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Taquaruçu do Sul",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Taquaruçu do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tavares",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Tavares",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tenente Portela",
+      "potential": 51,
+      "industry": 1,
+      "sourceName": "Tenente Portela",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Terra de Areia",
+      "potential": 32,
+      "industry": 1,
+      "sourceName": "Terra de Areia",
+      "caged": 1,
+      "rule": "EAD"
+    },
+    {
+      "name": "Teutônia",
+      "potential": 269,
+      "industry": 159,
+      "sourceName": "Teutônia",
+      "caged": 172,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tio Hugo",
+      "potential": 15,
+      "industry": 4,
+      "sourceName": "Tio Hugo",
+      "caged": 3,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tiradentes do Sul",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Tiradentes do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Toropi",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Toropi",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Torres",
+      "potential": 188,
+      "industry": 31,
+      "sourceName": "Torres",
+      "caged": 15,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tramandaí",
+      "potential": 163,
+      "industry": 4,
+      "sourceName": "Tramandaí",
+      "caged": 2,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Travesseiro",
+      "potential": 9,
+      "industry": 8,
+      "sourceName": "Travesseiro",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Três Arroios",
+      "potential": 10,
+      "industry": 7,
+      "sourceName": "Três Arroios",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Três Cachoeiras",
+      "potential": 21,
+      "industry": 1,
+      "sourceName": "Três Cachoeiras",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Três Coroas",
+      "potential": 157,
+      "industry": 128,
+      "sourceName": "Três Coroas",
+      "caged": 147,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Três de Maio",
+      "potential": 135,
+      "industry": 45,
+      "sourceName": "Três de Maio",
+      "caged": 48,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Três Forquilhas",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Três Forquilhas",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Três Palmeiras",
+      "potential": 9,
+      "industry": 2,
+      "sourceName": "Três Palmeiras",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Três Passos",
+      "potential": 143,
+      "industry": 61,
+      "sourceName": "Três Passos",
+      "caged": 57,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Trindade do Sul",
+      "potential": 82,
+      "industry": 67,
+      "sourceName": "Trindade do Sul",
+      "caged": 78,
+      "rule": "EAD"
+    },
+    {
+      "name": "Triunfo",
+      "potential": 515,
+      "industry": 283,
+      "sourceName": "Triunfo",
+      "caged": 121,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tucunduva",
+      "potential": 16,
+      "industry": 0,
+      "sourceName": "Tucunduva",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tunas",
+      "potential": 3,
+      "industry": 0,
+      "sourceName": "Tunas",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tupanci do Sul",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Tupanci do Sul",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Tupanciretã",
+      "potential": 108,
+      "industry": 2,
+      "sourceName": "Tupanciretã",
+      "caged": 1,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tupandi",
+      "potential": 124,
+      "industry": 106,
+      "sourceName": "Tupandi",
+      "caged": 102,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Tuparendi",
+      "potential": 34,
+      "industry": 10,
+      "sourceName": "Tuparendi",
+      "caged": 4,
+      "rule": "EAD"
+    },
+    {
+      "name": "Turuçu",
+      "potential": 4,
+      "industry": 0,
+      "sourceName": "Turuçu",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Ubiretama",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "Ubiretama",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "União da Serra",
+      "potential": 2,
+      "industry": 0,
+      "sourceName": "União da Serra",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Unistalda",
+      "potential": 1,
+      "industry": 0,
+      "sourceName": "Unistalda",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Uruguaiana",
+      "potential": 515,
+      "industry": 38,
+      "sourceName": "Uruguaiana",
+      "caged": 31,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Vacaria",
+      "potential": 712,
+      "industry": 90,
+      "sourceName": "Vacaria",
+      "caged": 84,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Vale do Sol",
+      "potential": 6,
+      "industry": 0,
+      "sourceName": "Vale do Sol",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vale Real",
+      "potential": 31,
+      "industry": 22,
+      "sourceName": "Vale Real",
+      "caged": 22,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vale Verde",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Vale Verde",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vanini",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Vanini",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Venâncio Aires",
+      "potential": 596,
+      "industry": 421,
+      "sourceName": "Venâncio Aires",
+      "caged": 354,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Vera Cruz",
+      "potential": 97,
+      "industry": 26,
+      "sourceName": "Vera Cruz",
+      "caged": 25,
+      "rule": "EAD"
+    },
+    {
+      "name": "Veranópolis",
+      "potential": 183,
+      "industry": 123,
+      "sourceName": "Veranópolis",
+      "caged": 158,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Vespasiano Correa",
+      "potential": 6,
+      "industry": 2,
+      "sourceName": "Vespasiano Correa",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Viadutos",
+      "potential": 6,
+      "industry": 2,
+      "sourceName": "Viadutos",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Viamão",
+      "potential": 504,
+      "industry": 91,
+      "sourceName": "Viamão",
+      "caged": 77,
+      "rule": "Presencial"
+    },
+    {
+      "name": "Vicente Dutra",
+      "potential": 7,
+      "industry": 0,
+      "sourceName": "Vicente Dutra",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Victor Graeff",
+      "potential": 14,
+      "industry": 5,
+      "sourceName": "Victor Graeff",
+      "caged": 6,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vila Flores",
+      "potential": 41,
+      "industry": 33,
+      "sourceName": "Vila Flores",
+      "caged": 35,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vila Lângaro",
+      "potential": 14,
+      "industry": 11,
+      "sourceName": "Vila Lângaro",
+      "caged": 8,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vila Maria",
+      "potential": 86,
+      "industry": 64,
+      "sourceName": "Vila Maria",
+      "caged": 22,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vila Nova do Sul",
+      "potential": 13,
+      "industry": 5,
+      "sourceName": "Vila Nova do Sul",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vista Alegre",
+      "potential": 5,
+      "industry": 0,
+      "sourceName": "Vista Alegre",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vista Alegre do Prata",
+      "potential": 2,
+      "industry": 2,
+      "sourceName": "Vista Alegre do Prata",
+      "caged": 2,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vista Gaúcha",
+      "potential": 12,
+      "industry": 0,
+      "sourceName": "Vista Gaúcha",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Vitória das Missões",
+      "potential": 0,
+      "industry": 0,
+      "sourceName": "Vitória das Missões",
+      "caged": 0,
+      "rule": "EAD"
+    },
+    {
+      "name": "Westfália",
+      "potential": 48,
+      "industry": 43,
+      "sourceName": "Westfália",
+      "caged": 37,
+      "rule": "EAD"
+    },
+    {
+      "name": "Xangri-lá",
+      "potential": 75,
+      "industry": 4,
+      "sourceName": "Xangri-lá",
+      "caged": 0,
+      "rule": "EAD"
+    }
+  ],
+  "audit": {
+    "reportedCaged": 21880,
+    "municipalCaged": 21883,
+    "difference": 3,
+    "municipalCagedStatus": "Em conferência: divergência de 3 vínculos entre soma municipal e total informado nas capturas.",
+    "admissions": 2816,
+    "dismissals": 2308,
+    "balance": 508
+  },
+  "sources": {
+    "mte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/areas-de-atuacao/insercao-de-aprendiz-1/potencial_ead_julho-1.xlsx",
+    "mteCompetence": "2026-07",
+    "cagedCompetence": "2026-07",
+    "caged": "20 capturas municipais fornecidas pelo usuário; total estadual exibido: 21.880."
+  }
+}

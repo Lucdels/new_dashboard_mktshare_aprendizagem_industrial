@@ -1,0 +1,9 @@
+*.xlsx
+*.XLSX
+*.xls
+*.csv
+__pycache__/
+.sites-runtime/
+work/
+.env*
+!data/market-template.csv

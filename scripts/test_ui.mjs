@@ -1,0 +1,23 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const elements=new Map();
+function element(key){if(!elements.has(key))elements.set(key,{innerHTML:'',textContent:'',value:'80',hidden:true,classList:{toggle(){}},addEventListener(){}});return elements.get(key)}
+const context={console,Intl,URLSearchParams,Date,setTimeout,clearTimeout,location:{hash:''},document:{querySelector:element,querySelectorAll:()=>[],addEventListener(){}},window:{DASHBOARD_DATA:[],history:{replaceState(_a,_b,url){context.savedUrl=url}},addEventListener(){}}};
+vm.createContext(context);vm.runInContext(fs.readFileSync(new URL('../dist/app.js',import.meta.url),'utf8'),context);
+const fixture=JSON.parse(fs.readFileSync(new URL('../data/snapshots/2026-09-08.json',import.meta.url),'utf8'));
+delete fixture.slices.all.market;
+context.fixture=fixture;
+vm.runInContext("snapshots=[fixture];state.period=fixture.date;",context);
+assert.equal(vm.runInContext('marketRate(root())',context),null);
+vm.runInContext("root().market={competence:'2026-09',caged:20000,mte:25000,source:'Teste somente em memória'}",context);
+assert.equal(vm.runInContext('marketRate(root())',context),75.53);
+assert.match(vm.runInContext('marketPanel(root())',context),/Participação sobre MTE/);
+vm.runInContext("state.modality='basic'",context);assert.equal(vm.runInContext('marketRate(root())',context),null);
+vm.runInContext("state.modality='all';root().market.competence='2026-06'",context);assert.equal(vm.runInContext('marketRate(root())',context),null);
+vm.runInContext("root().market.referenceMode='latest_available'",context);assert.equal(vm.runInContext('marketRate(root())',context),75.53);
+vm.runInContext("root().market={competence:'2026-09',mte:25000,source:'Teste'}",context);assert.match(vm.runInContext('scenario(root())',context),/Falta o denominador compatível/);
+vm.runInContext("root().market={competence:'2026-09',caged:20000,source:'Teste'};updateScenario()",context);assert.equal(element('#scenarioNumber').textContent,'894');
+vm.runInContext('writeHash()',context);assert.match(context.savedUrl,/data=2026-09-08/);
+assert.equal(typeof context.window.history.replaceState,'function');
+console.log('8 verificações da interface aprovadas: mercado, MTE, modalidade, competência, ausência, meta e endereço.');
